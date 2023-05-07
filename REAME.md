@@ -1,4 +1,6 @@
 # IRC API
-An api for python to make IRC bots.
+An api for python to make IRC bots.  
 
-For an example of how to use it look at `test.py`
+For an example of how to use it look at `test.py`  
+
+If you want to ask some questions about how to use I have an IRC up at `hangoutirc.mooo.com/6697` or I have a discod server here: 
